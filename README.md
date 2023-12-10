@@ -10,16 +10,16 @@
 -https://github.com/JoshuaRomero-tech/prj01_surveyform.git
 
 **Tribute Page Project**
--https://github.com/JoshuaRomero-tech/prj02_tributepage.git
+https://joshuaromero-tech.github.io/prj02_tributepage/
 
 **Technical Documentation Page Project**
-https://github.com/JoshuaRomero-tech/prj03_technicaldocumentationpage.git
+https://joshuaromero-tech.github.io/prj03_technicaldocumentationpage/
 
 **Product Landing Page Project**
--https://github.com/JoshuaRomero-tech/prj04_productlandingpage.git
+https://joshuaromero-tech.github.io/prj04_productlandingpage/
 
 **Personal Porfolio Project**
-https://github.com/JoshuaRomero-tech/prj05_personalporfolio.git
+https://joshuaromero-tech.github.io/prj05_personalporfolio/
 
 **Responsive Web Design Certificate**
 https://www.freecodecamp.org/certification/fccc9c0fb25-281a-4a38-906a-7bd771b8e0df/responsive-web-design
