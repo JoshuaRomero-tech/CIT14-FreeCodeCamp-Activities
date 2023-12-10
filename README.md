@@ -7,7 +7,7 @@
 -https://github.com/JoshuaRomero-tech/CSS-EXERCISE.git
 
 **Survey Form Project**
--https://github.com/JoshuaRomero-tech/prj01_surveyform.git
+https://joshuaromero-tech.github.io/prj01_surveyform/
 
 **Tribute Page Project**
 https://joshuaromero-tech.github.io/prj02_tributepage/
